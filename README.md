@@ -1,5 +1,5 @@
-# AdiBags Shadowlands Cooking  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Cooking)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-sorts "Fish", "Meat" & "Cooking vendor" reagents into their own categories
+# AdiBags Shadowlands Meat  ![image](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Shadowlands_Cooking)  [![Build Curse Release](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Shadowlands_Cooking/actions/workflows/action.yml)  ![image](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
+sorts  "Meat" into it's own category
 
 
 ## REQUIRES ADIBAGS
@@ -8,5 +8,6 @@ sorts "Fish", "Meat" & "Cooking vendor" reagents into their own categories
 ![backpack](https://user-images.githubusercontent.com/1850089/139585364-78377ed1-48e6-4c3a-89c6-785b5cf2dec9.png)
 
 ![reagent bank](https://user-images.githubusercontent.com/1850089/139585409-343b4d09-16c5-4d45-9eb8-b3b8ab2dfa70.png)
+![image](https://img.shields.io/badge/Requires-AdiBags-0B68D7)
 
-###### Replaces the need for [Shadowlands Meat](https://www.curseforge.com/wow/addons/adibags-shadowlands-meat) & [Shadowlands Fish](https://www.curseforge.com/wow/addons/adibags-shadowlands-fish)
+This addon is deprecated and replaced by [![image](https://img.shields.io/badge/AdiBags_Shadowlands_Cooking-0B68D7)](https://www.curseforge.com/wow/addons/adibags-shadowlands-meat)
