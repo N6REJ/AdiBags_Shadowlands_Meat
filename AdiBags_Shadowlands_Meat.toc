@@ -1,9 +1,9 @@
 ## Interface: 90105
-## Title: AdiBags - Shadowlands Cooking
+## Title: AdiBags - Shadowlands Meat
 ## Version: @project-version@
 ## Author: BearLeeAble
 ## X-License: MIT
-## X-Curse-Project-ID: 506378
+## X-Curse-Project-ID: 446524
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
